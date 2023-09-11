@@ -223,7 +223,7 @@ Courses | Duration | Effort | Prerequisites
 
 ### Probability and Statistics
 Combinatorics, probability, statistics, game theory, applied stats
-
+[probability and statistics temprory](https://onlinecourses.nptel.ac.in/noc21_ma74/preview)
 ### Mathematical Analysis
 Real analysis, numerical analysis, complex analysis, optimization theory
 
